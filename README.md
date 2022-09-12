@@ -3,15 +3,15 @@
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/aadarshkumarr/onlinequiz/blob/master/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/aadarshkumarr/onlinequiz/blob/master/static/screenshots/homepage.png)
 ### Admin Dashboard
-![dashboard snap](https://github.com/aadarshkumarr/onlinequiz/blob/master/static/screenshots/adminhomepage.png?raw=true)
+![dashboard snap](https://github.com/aadarshkumarr/onlinequiz/blob/master/static/screenshots/adminhomepage.png)
 ### Exam Rules
-![invoice snap](https://github.com/aadarshkumarr/onlinequiz/blob/master/static/screenshots/rules.png?raw=true)
+![invoice snap](https://github.com/aadarshkumarr/onlinequiz/blob/master/static/screenshots/rules.png)
 ### Exam
-![doctor snap](https://github.com/aadarshkumarr/onlinequiz/blob/master/static/screenshots/exam.png?raw=true)
+![doctor snap](https://github.com/aadarshkumarr/onlinequiz/blob/master/static/screenshots/exam.png)
 ### Teacher
-![doctor snap](https://github.com/aadarshkumarr/onlinequiz/blob/master/static/screenshots/teacher.png?raw=true)
+![doctor snap](https://github.com/aadarshkumarr/onlinequiz/blob/master/static/screenshots/teacher.png)
 ---
 ## Functions
 ### Admin
