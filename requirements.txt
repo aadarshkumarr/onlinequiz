@@ -25,7 +25,6 @@ numpy==1.23.3
 packaging==21.3
 parso==0.8.3
 pickleshare==0.7.5
-Pillow==9.2.0
 platformdirs==2.5.2
 pluggy==1.0.0
 prompt-toolkit==3.0.30
