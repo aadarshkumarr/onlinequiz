@@ -1,18 +1,6 @@
 # Online Quiz
 ![developer](https://img.shields.io/badge/Developed%20By-Aadarsh%20Kumar-red)
 ---
-## screenshots
-### Homepage
-![homepage snap](https://github.com/aadarshkumarr/onlinequiz/blob/master/static/screenshots/homepage.png)
-### Admin Dashboard
-![dashboard snap](https://github.com/aadarshkumarr/onlinequiz/blob/master/static/screenshots/adminhomepage.png)
-### Exam Rules
-![invoice snap](https://github.com/aadarshkumarr/onlinequiz/blob/master/static/screenshots/rules.png)
-### Exam
-![doctor snap](https://github.com/aadarshkumarr/onlinequiz/blob/master/static/screenshots/exam.png)
-### Teacher
-![doctor snap](https://github.com/aadarshkumarr/onlinequiz/blob/master/static/screenshots/teacher.png)
----
 ## Functions
 ### Admin
 - Create Admin account using command
